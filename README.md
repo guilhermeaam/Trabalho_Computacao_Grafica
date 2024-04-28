@@ -5,4 +5,4 @@ No qual, consiste em uma proposta de jogo, em que o jogador seria inserido num l
 
 A proposta seria de que cada jogo seria adaptado para diferentes tipos de perguntas, variando o nivel das perguntas e quantidade.
 
-Assim, um jogo com proposta educativa e que poderia ser customizado para atender diferentes aulas.
+Assim, um jogo com proposta educativa, mesmo sendo um FPS sci-fi e que poderia ser customizado para atender diferentes aulas.
